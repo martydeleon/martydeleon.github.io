@@ -3,6 +3,7 @@ Marty DeLeon # your name (or website title) here
 logo: "/images/backgroundLinkedin.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Enthusiast | SQL | PYTHON | EXCEL |ASP.NET | VB.NET| C# <br><br>
+  
   <a href="https://www.linkedin.com/in/martydeleon/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
