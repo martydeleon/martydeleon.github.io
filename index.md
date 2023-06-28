@@ -1,4 +1,4 @@
-<img src="Blue Modern Digital Marketing linkedIn article cover image.png"?raw=true/?
+<img src="Blue Modern Digital Marketing linkedIn article cover image.png"?raw=true/>
 
 ---
 
