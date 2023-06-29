@@ -1,4 +1,4 @@
-<img src="images/Blue Modern Digital Marketing linkedIn article cover image.png?raw=true"/>
+<img src="images/BlueMarketingTitle_image.png?raw=true"/>
 
 ---
 
