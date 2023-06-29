@@ -5,8 +5,9 @@
 ### Welcome to My Projects
 
 #### [Door Dash Project](/bank)
-For this project I used Excel. Excel tools shown are functions (COUNT, MAX, AVERAGE, SUM, MIN). Scatter plots, histograms, advanced if-then formulas, pivot tables, and VLOOKUPs. This was my first time using Excel and I can see why it is still used as a data visualization tool.
-<img src="images/Beige Illustrative Sushi Food Delivery Instagram Post.png?raw=true"/>
+<!--For this project I used Excel. Excel tools shown are functions (COUNT, MAX, AVERAGE, SUM, MIN). Scatter plots, histograms, advanced if-then formulas, pivot tables, and VLOOKUPs. This was my first time using Excel and I can see why it is still used as a data visualization tool.-->
+<!--<img src="images/Beige Illustrative Sushi Food Delivery Instagram Post.png?raw=true"/>-->
+[![Door Dash Project](images/Beige Illustrative Sushi Food Delivery Instagram Post.png "Door Dash Project")](https://www.linkedin.com/pulse/door-dash-case-study-using-excel-martin-deleon/?trackingId=GgZISrCVS62kg5z9Qcyp%2FA%3D%3D)
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
